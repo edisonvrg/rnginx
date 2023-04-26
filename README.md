@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Allow Annotator PIL.Image inputs (#8397)
