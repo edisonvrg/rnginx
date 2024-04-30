@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
